@@ -100,6 +100,11 @@ hr{
     justify-content: center;
     align-items: center;
 }
+.product_flex_left{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
 .product_m_text{
     font-family: 'S-CoreDream-8hard';
     font-size: 25px;   
@@ -285,4 +290,38 @@ hr{
     border: 1px solid #000;
     border-radius: 50px;
     margin: 0 10px 0 10px;
+    background-color: #fff;
+    font-family: 'S-CoreDream-3Light';
+}
+.memu_button:hover {
+    background-color:#EA5514;
+    transition: 0.4s;
+    color: #fff;
+    border: 1px solid #EA5514;
+}
+.memu_button:active {
+    background-color:#fff;
+    transition: 0.4s;
+    color: #EA5514;
+    border: 1px solid #fff;
+}
+.memu_img{
+    margin: 100px 12px 15px 12px;
+}
+.memu_m_text{
+    font-family: 'S-CoreDream-8hard';
+    font-size: 25px;
+    margin: 0 80px 0 80px;
+}
+.memu_s_text{
+    font-size: 18px;
+    margin: 0 152px 0 165px;
+}
+.memu_s_text_2{
+    font-size: 18px;
+    margin: 0 45px 0 45px;
+}
+.memu_s_text_3{
+    font-size: 18px;
+    margin: 0 0 0 128px;
 }
