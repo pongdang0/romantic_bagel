@@ -295,7 +295,7 @@ hr{
     padding: 8px 14px 8px 14px;
     border: 1px solid #EA5514;
     border-radius: 50px;
-    margin: 0 10px 0 10px;
+    margin: 100px 10px 0 10px;
     background-color: #fff;
     font-family: 'S-CoreDream-3Light';
 }
@@ -340,7 +340,7 @@ ul, li{
     vertical-align: top;
 }
 .memu .dep2 {
-    display: none;
+   display: block; 
 }
 .memu .dep1 > li:hover > .dep2 {
     display: block;
