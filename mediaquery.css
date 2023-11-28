@@ -59,32 +59,36 @@
         margin: 0 85px 0 85px;
     }
     .memu_img{
-        width: 40%;
+        width: 30%;
         height: auto;
         text-align: center;
         overflow: hidden;
-        margin: 50px 0 0 0;
+        display: inline;
+        margin: 150px 0 0 0;
+    }
+    .product_flex {
+        display: inline-block;
     }
     .memu_img img{
         max-width: 20%;
         height: auto;
         display: inline-block;
-        margin: 0 5px 0 5px;
+        margin: 50px 5px 0 5px;
     }
     .product_m_text_2{
         font-family: 'S-CoreDream-8hard';
         font-size: 20px;   
-        margin: 0 60px 0 60px;
+        margin: 0 55px 0 55px;
         align-items: center;
     }
     .product_s_text_2{
         font-size: 15px;
-        margin: 0 60px 0 60px;
+        margin: 0 68px 0 68px;
     }
     .product_m_text_3{
         font-family: 'S-CoreDream-8hard';
         font-size: 20px;   
-        margin: 0 40px 0 40px;
+        margin: 0 35px 0 35px;
         align-items: center;
     }
     .product_s_text_3{
