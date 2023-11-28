@@ -1,6 +1,8 @@
 html{
     height: 100%;
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
 }
 body{
     text-align: center;
@@ -554,14 +556,14 @@ ul, li{
 .order_bottom_info_title{
     font-family: 'S-CoreDream-8hard';
     letter-spacing: 1px;
-    margin: 100px 0 20px 160px;
+    margin: 100px 0 20px 400px;
     text-align: left;
     font-size: 12px;
 }
 .order_bottom_info_contect{
     text-align: left;
     font-size: 12px;
-    margin: 0 0 0 160px;
+    margin: 0 0 0 400px;
     line-height: 20px;
 }
 .order_post_nothing{
