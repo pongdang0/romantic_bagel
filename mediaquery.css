@@ -1,4 +1,9 @@
 @media screen and (max-width: 1000px){
+    html{
+        overflow-x: hidden;
+    }
+}
+@media screen and (max-width: 1000px){
     .category{
         font-size: 15px;
         display:inline;
